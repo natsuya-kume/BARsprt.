@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    color: #cc0000;
+}
+
+.news-item{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    padding:10px;
+}
+
+.new-item.first{
+    margin-top:20px;
+}
+
+.news-title{
+    margin-top: 10px;
+}
+
+.news-img{
+    width: 150px;
+    height: 100px;
+}
